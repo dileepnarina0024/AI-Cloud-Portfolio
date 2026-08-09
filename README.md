@@ -12,7 +12,7 @@ Creating a professional portfolio using AWS Amplify with GitHub integration, ens
 ## Architecture
 
 ### Target architecture
-![Target Architecture](architecture.jpg)
+![Target Architecture](ai-architecture.jpeg)
 
 ### Target technology stack
 
